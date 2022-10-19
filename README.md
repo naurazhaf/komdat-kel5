@@ -1,4 +1,4 @@
-# Aplikasi Web "XYZ"
+# Aplikasi Web "JOOMLA"
 
 
 ## Sekilas Tentang
