@@ -1,15 +1,18 @@
-# Aplikasi Web "JOOMLA"
+Joomla!
 
 
 ## Sekilas Tentang
 
-Deskripsi singkat tentang aplikasi tsb.
+Joomla adalah sistem manajemen konten (CMS) gratis dan sumber terbuka yang dibangun di PHP Joomla memungkinkan pengguna untuk mempublikasikan berbagai jenis situs web, seperti blog pribadi, aplikasi pemerintah, intranet dan ekstranet perusahaan, situs web bisnis kecil dan besar, dll.
 
 
 ## Instalasi
 
-- Prasyarat, apa saja yang harus diinstal sebelumnya.
-- Langkah instalasi dalam CLI.
+- Ubuntu 20.04 VPS. We will use one of our SSD 2 VPS hosting plans.
+- system user with sudo privileges
+- MySQL database server version 5.1 or newer (5.5.3 + is recommended)
+- Apache web server version 2.0 or newer (2.4 + is recommended)
+- PHP version 5.3.10 or newer (7.3 + is recommended)
 
 
 ## Konfigurasi (opsional)
