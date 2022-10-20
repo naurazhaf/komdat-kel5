@@ -125,9 +125,10 @@ Terdapat kelebihan dan kekurangan dari aplikasi yang diimplementasi disini.
 - Penggunaan PHP yang bersahabat bagi pemula.
 - Pembesaran skala aplikasi mudah dan praktis.
 - Variasi terjemahan kedalam berbagai bahasa sehinggga mempermudah dalam mempelajarinya.
+
 **kekurangan**
-          - 
-          - 
+- 
+- 
 Bila dibandingkan dengan 
 
 
