@@ -17,8 +17,23 @@ Joomla adalah sistem manajemen konten (CMS) gratis dan sumber terbuka yang diban
 - MySQL database server version 5.1 or newer (5.5.3 + is recommended)
 - Apache web server version 2.0 or newer (2.4 + is recommended)
 - PHP version 5.3.10 or newer (7.3 + is recommended)
-    1. Login ke akun Google Engine dan mengakses server menggunakan SSH yang disediakan oleh Google Virtual Machine.
-2. 
+1. Login ke akun Google Engine dan mengakses server menggunakan SSH yang disediakan oleh Google Virtual Machine.
+     ```
+     $ ssh ctrrnws@34.128.81.68 -p PORT
+    ```
+2. Memastikan bahwa sistem sudah terbarukan.
+     ```
+     $ sudo apt-get update
+     $ sudo apt-get upgrade
+    ```
+4. Penginstallan Apache webserber, PHP, dan MariaDB.
+    ```
+    $ sudo apt install apache2
+    $ sudo apt install php php-common libapache2-mod-php php-cli php-fpm php-mysql php-json php-opcache php-gmp php-curl php-intl php-mbstring php-xmlrpc         php-gd php-xml php-zip
+    $ sudo apt install -y mariadb-server mariadb-client
+6. djnjnc
+7. dnwj
+8. 
 
 
 ## Konfigurasi (opsional)
