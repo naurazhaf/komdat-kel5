@@ -1,5 +1,5 @@
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Joomla%21-Logo.svg/2560px-Joomla%21-Logo.svg.png)
-## Joomla!
+<p align="center"> # Joomla! </p>
 
 
 ## Sekilas Tentang
