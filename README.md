@@ -119,7 +119,7 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 ## Kelebihan dan kekurangan
 [`^ back to top ^`](#)
 
-- Terdapat kelebihan dan kekurangan dari aplikasi yang diimplementasi disini.
+Terdapat kelebihan dan kekurangan dari aplikasi yang diimplementasi disini.
     - kelebihan
           - Instalasi yang relatif mudah dilakukan.
           - Penggunaan PHP yang bersahabat bagi pemula.
