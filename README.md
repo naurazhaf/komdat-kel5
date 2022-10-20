@@ -69,7 +69,7 @@ Joomla! adalah sistem manajemen konten (CMS) gratis dan sumber terbuka yang diba
      dan mengedit file joomla.conf dengan dengan baris berikut
      ```
      <VirtualHost *:80>
-     ServerAdmin crnwscitra@34.128.81.68
+     ServerAdmin webadmin@34.128.81.68
      DocumentRoot /var/www/html/joomla/
      ServerName 34.128.81.68
      ServerAlias 34.128.81.68
