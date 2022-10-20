@@ -26,14 +26,32 @@ Joomla adalah sistem manajemen konten (CMS) gratis dan sumber terbuka yang diban
      $ sudo apt-get update
      $ sudo apt-get upgrade
     ```
-4. Penginstallan Apache webserber, PHP, dan MariaDB.
+4. Penginstallan kebutuhan sistem `Apache webserver`, `PHP`, dan `MySQL`.
     ```
     $ sudo apt install apache2
+    $ sudo apt-get install php
+    $ sudo apt-get install libapache2-mod-php
+    $ sudo apt-get install php-mysql
     $ sudo apt install php php-common libapache2-mod-php php-cli php-fpm php-mysql php-json php-opcache php-gmp php-curl php-intl php-mbstring php-xmlrpc         php-gd php-xml php-zip
-    $ sudo apt install -y mariadb-server mariadb-client
-6. djnjnc
-7. dnwj
-8. 
+    $ sudo mysql_secure_installation
+    $ sudo apt-get install wget
+    $ sudo apt-get install unzip
+    ```
+6. Pengunduhan aplikasi **Joomla** ke dalam sistem
+     ```
+     $ sudo wget https://downloads.joomla.org/cms/joomla4/4-0-3/Joomla_4-0-3-Stable-Full_Package.zip
+
+     ```
+8. Ekstrak file aplikasi **Joomla** yang sudah diunduh
+     ```
+     sudo unzip Joomla_4-0-3-Stable-Full_Package.zip -d /var/www/html/joomla
+     ```
+10. Ekstrak file pada direktori`/var/www/html/joomla` sebagai root direktori dari aplikasi **Joomla**
+     ```
+     sudo unzip Joomla_4-0-3-Stable-Full_Package.zip -d /var/www/html/joomla
+     ```
+12. ksdksn
+13. njdncjdncj
 
 
 ## Konfigurasi (opsional)
