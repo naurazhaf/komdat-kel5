@@ -97,7 +97,7 @@ Joomla adalah sistem manajemen konten (CMS) gratis dan sumber terbuka yang diban
 ## Konfigurasi
 [`^ back to top ^`](#)
 - Konfigurasi aplikasi dapat diakses setelah masuk ke akun admin
-<img src="[https://ibb.co/SNr6sJr](https://i.ibb.co/LS50kv5/Screen-Shot-2022-10-20-at-21-14-05.png)" alt="gambar" width="850"/>
+<img src="https://github.com/naurazhaf/komdat-kel5/blob/main/pictures/config1.png" alt="gambar" width="850"/>
 
 - Akses menu **Konfigurasi Global** dapat ditemukan pada submenu disebelah kiri layar
 - Pengaturan situs dapat dirubah sesuai yang dibutuhkan
