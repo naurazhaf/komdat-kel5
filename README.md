@@ -19,7 +19,7 @@ Joomla adalah sistem manajemen konten (CMS) gratis dan sumber terbuka yang diban
 - PHP version 5.3.10 or newer (7.3 + is recommended)
 1. Login ke akun Google Engine dan mengakses server menggunakan SSH yang disediakan oleh Google Virtual Machine.
      ```
-     $ ssh ctrrnws@34.128.81.68 -p PORT
+     $ ssh ctrrnws@34.128.81.68 -p 22
     ```
 2. Memastikan bahwa sistem sudah terbarukan.
      ```
@@ -50,8 +50,36 @@ Joomla adalah sistem manajemen konten (CMS) gratis dan sumber terbuka yang diban
      ```
      sudo unzip Joomla_4-0-3-Stable-Full_Package.zip -d /var/www/html/joomla
      ```
-12. ksdksn
-13. njdncjdncj
+12. Ubah kepemilikandari direktori ```/var/www/html/joomla```  ke  ```www-data```
+     ```
+     $ sudo chown -R www-data: /var/www/html/joomla
+     ```
+14. Membuat jonfigurasi apache vortual host pada instalasi **Joomla**
+     ```
+     $ sudo nano /etc/apache2/sites-available/joomla.conf
+     ```
+     dan mengedit file joomla.conf dengan dengan baris berikut
+     ```
+     <VirtualHost *:80>
+     ServerAdmin admin@your_domain.com
+     DocumentRoot /var/www/html/joomla/
+     ServerName your_domain.com
+     ServerAlias www.your_domain.com
+
+     <Directory /var/www/html/joomla/>
+          Options FollowSymlinks
+          AllowOverride All
+          Require all granted
+     </Directory>
+
+     ErrorLog ${APACHE_LOG_DIR}/error.log
+     CustomLog ${APACHE_LOG_DIR}/access.log combined
+     </VirtualHost>
+     ```
+16. Setelah file disimpan, lalu aktifkan **Joomla** virtual host
+     ``` $ sudo a2ensite joomla.conf ```
+18. Restart ```Apache2``` untuk menerapkan perubahan
+     ```$ sudo systemctl restart apache2```
 
 
 ## Konfigurasi (opsional)
