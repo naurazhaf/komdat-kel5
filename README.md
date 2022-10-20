@@ -131,10 +131,11 @@ Terdapat kelebihan dan kekurangan dari aplikasi yang diimplementasi disini.
 - Joomla jarang muncul di hasil pencarian pertama.
 - Media yang didukung terbatas.
 
-Bila dibandingkan dengan 
+Ketika membandingkan Joomla! dengan Getsimple CMS, Joomla! memiliki keunggulan seperti penyimpanan yang tersimpan pada server dibanding dengan Getsimple yang mengandalkan penyimpanan secara lokal. Akan tetapi Getsimple diperuntukan untuk pengembangan aplikasi skala kecil tidak seperti Joomla! sehingga Joomla! tidak sefleksiblel Getsimple.
 
 
 ## Referensi
 [`^ back to top ^`](#)
+
 https://idcloudhost.com/mengenal-kelebihan-dan-kekurangan-menggunakan-joomla-dalam-merancang-situs-web-dan-blog/
-Cantumkan tiap sumber informasi yang anda pakai.
+https://linuxhostsupport.com/blog/how-to-install-joomla-3-9-on-ubuntu-20-04/
