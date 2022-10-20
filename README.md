@@ -4,14 +4,14 @@
 :--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
 
 ## Anggota Kelompok
-1. Adri Aulia Mahran    G6419
-2. Citra regita NWS     G6401201
-3. Naura Zhafira        G6401201121
+1. Adri Aulia Mahran                         G6419
+2. Citra Regita Nurtalia Wahyu Santosa       G6401201002
+3. Naura Zhafira                             G6401201121
 
 ## Sekilas Tentang
 [`^ back to top ^`](#)
 
-Joomla adalah sistem manajemen konten (CMS) gratis dan sumber terbuka yang dibangun di PHP Joomla memungkinkan pengguna untuk mempublikasikan berbagai jenis situs web, seperti blog pribadi, aplikasi pemerintah, intranet dan ekstranet perusahaan, situs web bisnis kecil dan besar, dan lain -lain.
+Joomla! adalah sistem manajemen konten (CMS) gratis dan sumber terbuka yang dibangun di PHP Joomla! memungkinkan pengguna untuk mempublikasikan berbagai jenis situs web, seperti blog pribadi, aplikasi pemerintah, intranet dan ekstranet perusahaan, situs web bisnis kecil dan besar, dan lain -lain.
 
 
 ## Instalasi
@@ -103,6 +103,7 @@ Joomla adalah sistem manajemen konten (CMS) gratis dan sumber terbuka yang diban
 <img src="https://github.com/naurazhaf/komdat-kel5/blob/main/pictures/config2.png" alt="gambar" width="850"/>
 - Pengaturan server dapat dirubah sesuai yang dibutuhkan
 <img src="https://github.com/naurazhaf/komdat-kel5/blob/main/pictures/config3.png" alt="gambar" width="850"/>
+
 ##  Maintenance
 [`^ back to top ^`](#)
 
