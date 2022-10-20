@@ -94,11 +94,11 @@ Joomla adalah sistem manajemen konten (CMS) gratis dan sumber terbuka yang diban
      ```
 
 
-## Konfigurasi (opsional)
+## Konfigurasi
 [`^ back to top ^`](#konfigurasi)
 
-##  Maintenance (opsional)
-[`^ back to top ^`](#)
+##  Maintenance
+[`^ back to top ^`](#maintenance)
 
 Setting tambahan untuk maintenance secara periodik, misalnya:
 - buat backup database tiap pekan
@@ -106,8 +106,8 @@ Setting tambahan untuk maintenance secara periodik, misalnya:
 - dll
 
 
-## Otomatisasi (opsional)
-[`^ back to top ^`](#)
+## Otomatisasi
+[`^ back to top ^`](#otomatisasi)
 
 Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
