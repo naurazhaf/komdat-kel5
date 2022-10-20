@@ -141,8 +141,11 @@ Ketika membandingkan **Joomla!** dengan Getsimple CMS, **Joomla!** memiliki keun
 
 ## Referensi
 [`^ back to top ^`](#)
-
-https://idcloudhost.com/mengenal-kelebihan-dan-kekurangan-menggunakan-joomla-dalam-merancang-situs-web-dan-blog/
-https://linuxhostsupport.com/blog/how-to-install-joomla-3-9-on-ubuntu-20-04/
+- [Joomla!] (https://www.joomla.org/) - Joomla!
+- [Keunggulan dan kelemahan Joomla!] (https://idcloudhost.com/mengenal-kelebihan-dan-kekurangan-menggunakan-joomla-dalam-merancang-situs-web-dan-blog/
+) - idCloudHost
+- [Dokumentasi Instalasi] (https://linuxhostsupport.com/blog/how-to-install-joomla-3-9-on-ubuntu-20-04/
+) - Linux Support
+- [Google Cloud COmputing] (https://cloud.google.com/) - Google
 
 
