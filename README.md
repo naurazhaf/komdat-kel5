@@ -1,9 +1,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Joomla%21-Logo.svg/2560px-Joomla%21-Logo.svg.png" alt="drawing" width="850"/>
 
-[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Maintenance](#Maintenance) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
-:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Maintenance](#Maintenance) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+:--:|:--:|:--:|:--:|:--:|:--:|:--:
 
-## Anggota Kelompok
+## Anggota Kelompok 5 | P2
 1. Adri Aulia Mahran                         G6419
 2. Citra Regita Nurtalia Wahyu Santosa       G6401201002
 3. Naura Zhafira                             G6401201121
