@@ -23,7 +23,7 @@ Joomla adalah sistem manajemen konten (CMS) gratis dan sumber terbuka yang diban
 **Tahapan Instalasi**
 1. Login ke akun Google Engine dan mengakses server menggunakan SSH yang disediakan oleh Google Virtual Machine.
      ```
-     $ ssh ctrrnws@34.128.81.68 -p 22
+     $ ssh crnwscitra@34.128.81.68 -p 22
     ```
 2. Memastikan bahwa sistem sudah terbarukan.
      ```
@@ -125,10 +125,9 @@ Terdapat kelebihan dan kekurangan dari aplikasi yang diimplementasi disini.
 - Penggunaan PHP yang bersahabat bagi pemula.
 - Pembesaran skala aplikasi mudah dan praktis.
 - Variasi terjemahan kedalam berbagai bahasa sehinggga mempermudah dalam mempelajarinya.
-
 **kekurangan**
-- 
-- 
+          - 
+          - 
 Bila dibandingkan dengan 
 
 
