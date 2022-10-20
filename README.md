@@ -62,17 +62,17 @@ Joomla! adalah sistem manajemen konten (CMS) gratis dan sumber terbuka yang diba
      ```
      $ sudo chown -R www-data: /var/www/html/joomla
      ```
-14. Membuat jonfigurasi apache vortual host pada instalasi **Joomla**
+14. Membuat konfigurasi apache virtual host pada instalasi **Joomla**
      ```
      $ sudo nano /etc/apache2/sites-available/joomla.conf
      ```
      dan mengedit file joomla.conf dengan dengan baris berikut
      ```
      <VirtualHost *:80>
-     ServerAdmin admin@your_domain.com
+     ServerAdmin ctrrnws@34.128.81.68
      DocumentRoot /var/www/html/joomla/
-     ServerName your_domain.com
-     ServerAlias www.your_domain.com
+     ServerName 34.128.81.68
+     ServerAlias 34.128.81.68
 
      <Directory /var/www/html/joomla/>
           Options FollowSymlinks
@@ -97,11 +97,17 @@ Joomla! adalah sistem manajemen konten (CMS) gratis dan sumber terbuka yang diba
 ## Konfigurasi
 [`^ back to top ^`](#)
 - Konfigurasi aplikasi dapat diakses setelah masuk ke akun admin
+
 - Akses menu **Konfigurasi Global** dapat ditemukan pada submenu disebelah kiri layar
+
 <img src="https://github.com/naurazhaf/komdat-kel5/blob/main/pictures/config1.png" alt="gambar" width="850"/>
+
 - Pengaturan situs dapat dirubah sesuai yang dibutuhkan
+
 <img src="https://github.com/naurazhaf/komdat-kel5/blob/main/pictures/config2.png" alt="gambar" width="850"/>
+
 - Pengaturan server dapat dirubah sesuai yang dibutuhkan
+
 <img src="https://github.com/naurazhaf/komdat-kel5/blob/main/pictures/config3.png" alt="gambar" width="850"/>
 
 ##  Maintenance
@@ -125,7 +131,7 @@ Maintenance pada server diperlukan untuk memaksimalkan kinerja aplikasi dan memi
 <img src="https://github.com/naurazhaf/komdat-kel5/blob/main/pictures/maintenance4.png" alt="gambar" width="850"/>
 
 
-Pembaruan aplikasi juga merupakan salah satu bentuk Maintenance. Menu pembaharuaan dapat ditemukan pada menu panel kendali dan terdapat pada bar sebelah kiri aplikasi.
+Pembaruan aplikasi juga merupakan salah satu bentuk Maintenance. Menu pembaharuan dapat ditemukan pada menu panel kendali dan terdapat pada bar sebelah kiri aplikasi.
 
 <img src="https://github.com/naurazhaf/komdat-kel5/blob/main/pictures/maintenance5.png" alt="gambar" width="400"/>
 
