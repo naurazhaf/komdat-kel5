@@ -107,11 +107,27 @@ Joomla! adalah sistem manajemen konten (CMS) gratis dan sumber terbuka yang diba
 ##  Maintenance
 [`^ back to top ^`](#)
 
-Setting tambahan untuk maintenance secara periodik, misalnya:
-- buat backup database tiap pekan
-- hapus direktori sampah tiap hari
-- dll
+Maintenance pada server diperlukan untuk memaksimalkan kinerja aplikasi dan meminimalisir terjadinya error dimasa yang akan datang Salah satu bentuk maintenance dapat dilakkan dengan membersihkan cache dan cache yang sudah kadaluwarsa.
+- Opsi pembersihan cache dapat ditemukan dalam submenu dari menu Sistem
+<img src="https://github.com/naurazhaf/komdat-kel5/blob/main/pictures/maintenance1.png" alt="gambar" width="850"/>
+- Pembersihan Cache
+<img src="https://github.com/naurazhaf/komdat-kel5/blob/main/pictures/maintenance2.png" alt="gambar" width="850"/>
+- Pembersihan cache kadaluwarsa
+<img src="https://github.com/naurazhaf/komdat-kel5/blob/main/pictures/maintenance3.png" alt="gambar" width="850"/>
+- Pemeriksaan
+<img src="https://github.com/naurazhaf/komdat-kel5/blob/main/pictures/maintenance4.png" alt="gambar" width="850"/>
 
+
+Pembaruan aplikasi juga merupakan salah satu bentuk Maintenance. Menu pembaharuaan dapat ditemukan pada menu panel kendali dan terdapat pada bar sebelah kiri aplikasi.
+<img src="https://github.com/naurazhaf/komdat-kel5/blob/main/pictures/maintenance5.png" alt="gambar" width="850"/>
+
+Tentunya, ketika kita sedang mengkonfigurasi ulang **Joomla!**, aplikasi perlu dirubah ke _maintenance mode_. Langkah untuk mengaktifkan _maintenance mode_:
+1. Login sebagai admin ke aplikasi
+2. Pilih menu Sistem dan pilih Konfigurasi Global pada menu _dropdown_ yang muncul
+<img src="https://github.com/naurazhaf/komdat-kel5/blob/main/pictures/maintenance7.png" alt="gambar" width="850"/>
+3. Lihat pada pengaturan situs, terhadap pilihan untuk memadamkan situs aplikasi
+<img src="https://github.com/naurazhaf/komdat-kel5/blob/main/pictures/maintenance8.png" alt="gambar" width="850"/>
+4. Klik tombol ```Ya``` atau ```Tidak``` untuk memadamkan situs aplikasi
 
 ## Otomatisasi
 [`^ back to top ^`](#)
