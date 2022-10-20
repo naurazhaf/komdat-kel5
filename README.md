@@ -109,12 +109,19 @@ Joomla! adalah sistem manajemen konten (CMS) gratis dan sumber terbuka yang diba
 
 Maintenance pada server diperlukan untuk memaksimalkan kinerja aplikasi dan meminimalisir terjadinya error dimasa yang akan datang Salah satu bentuk maintenance dapat dilakkan dengan membersihkan cache dan cache yang sudah kadaluwarsa.
 - Opsi pembersihan cache dapat ditemukan dalam submenu dari menu Sistem
+
 <img src="https://github.com/naurazhaf/komdat-kel5/blob/main/pictures/maintenance1.png" alt="gambar" width="850"/>
+
 - Pembersihan Cache
+
 <img src="https://github.com/naurazhaf/komdat-kel5/blob/main/pictures/maintenance2.png" alt="gambar" width="850"/>
+
 - Pembersihan cache kadaluwarsa
+
 <img src="https://github.com/naurazhaf/komdat-kel5/blob/main/pictures/maintenance3.png" alt="gambar" width="850"/>
+
 - Pemeriksaan
+
 <img src="https://github.com/naurazhaf/komdat-kel5/blob/main/pictures/maintenance4.png" alt="gambar" width="850"/>
 
 
