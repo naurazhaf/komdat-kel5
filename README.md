@@ -97,11 +97,12 @@ Joomla adalah sistem manajemen konten (CMS) gratis dan sumber terbuka yang diban
 ## Konfigurasi
 [`^ back to top ^`](#)
 - Konfigurasi aplikasi dapat diakses setelah masuk ke akun admin
-<img src="https://github.com/naurazhaf/komdat-kel5/blob/main/pictures/config1.png" alt="gambar" width="850"/>
-
 - Akses menu **Konfigurasi Global** dapat ditemukan pada submenu disebelah kiri layar
+<img src="https://github.com/naurazhaf/komdat-kel5/blob/main/pictures/config1.png" alt="gambar" width="850"/>
 - Pengaturan situs dapat dirubah sesuai yang dibutuhkan
+<img src="https://github.com/naurazhaf/komdat-kel5/blob/main/pictures/config2.png" alt="gambar" width="850"/>
 - Pengaturan server dapat dirubah sesuai yang dibutuhkan
+<img src="https://github.com/naurazhaf/komdat-kel5/blob/main/pictures/config3.png" alt="gambar" width="850"/>
 ##  Maintenance
 [`^ back to top ^`](#)
 
