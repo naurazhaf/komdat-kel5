@@ -15,7 +15,7 @@ Joomla adalah sistem manajemen konten (CMS) gratis dan sumber terbuka yang diban
 
 
 ## Instalasi
-[`^ back to top ^`](#)
+[`^ back to top ^`](#instalasi)
 
 **Kebutuhan Sistem**
 - Ubuntu 20.04 VPS. We will use one of our SSD 2 VPS hosting plans.
@@ -95,7 +95,7 @@ Joomla adalah sistem manajemen konten (CMS) gratis dan sumber terbuka yang diban
 
 
 ## Konfigurasi (opsional)
-[`^ back to top ^`](#)
+[`^ back to top ^`](#konfigurasi)
 
 ##  Maintenance (opsional)
 [`^ back to top ^`](#)
