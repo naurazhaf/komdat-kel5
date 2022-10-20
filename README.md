@@ -12,7 +12,6 @@ Joomla adalah sistem manajemen konten (CMS) gratis dan sumber terbuka yang diban
 
 ## Instalasi
 [`^ back to top ^`](#)
-
 - Ubuntu 20.04 VPS. We will use one of our SSD 2 VPS hosting plans.
 - system user with sudo privileges
 - MySQL database server version 5.1 or newer (5.5.3 + is recommended)
@@ -20,18 +19,15 @@ Joomla adalah sistem manajemen konten (CMS) gratis dan sumber terbuka yang diban
 - PHP version 5.3.10 or newer (7.3 + is recommended)
 
 
+
 ## Konfigurasi (opsional)
-Pada file php.ini dilakukan perubahan guna meningkatkan fungsi dan kinerja aplikasi
-Setting server tambahan yang diperlukan untuk meningkatkan fungsi dan kinerja aplikasi, misalnya:
-- batas upload file
-- batas memori
-- dll
-
-Plugin untuk fungsi tambahan
-- login dengan Google/Facebook
-- editor Markdown
-- dll
-
+Pada file php.ini dilakukan perubahan guna meningkatkan fungsi dan kinerja aplikasi:
+memory_limit = 512M
+upload_max_filesize = 256M
+post_max_size = 256M 
+max_execution_time = 300
+output_buffering = off
+date.timezone = America/Chicago
 
 ##  Maintenance (opsional)
 [`^ back to top ^`](#)
