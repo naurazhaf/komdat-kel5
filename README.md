@@ -17,17 +17,19 @@ Joomla adalah sistem manajemen konten (CMS) gratis dan sumber terbuka yang diban
 - MySQL database server version 5.1 or newer (5.5.3 + is recommended)
 - Apache web server version 2.0 or newer (2.4 + is recommended)
 - PHP version 5.3.10 or newer (7.3 + is recommended)
-
+    1. Login ke akun Google Engine dan mengakses server menggunakan SSH yang disediakan oleh Google Virtual Machine.
+2. 
 
 
 ## Konfigurasi (opsional)
+[`^ back to top ^`](#)
 Pada file php.ini dilakukan perubahan guna meningkatkan fungsi dan kinerja aplikasi:
-memory_limit = 512M
-upload_max_filesize = 256M
-post_max_size = 256M 
-max_execution_time = 300
-output_buffering = off
-date.timezone = America/Chicago
+- memory_limit = 512M
+- upload_max_filesize = 256M
+- post_max_size = 256M 
+- max_execution_time = 300
+- output_buffering = off
+- date.timezone = America/Chicago
 
 ##  Maintenance (opsional)
 [`^ back to top ^`](#)
