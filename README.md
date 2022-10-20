@@ -1,14 +1,13 @@
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Joomla%21-Logo.svg/2560px-Joomla%21-Logo.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Joomla%21-Logo.svg/2560px-Joomla%21-Logo.svg.png" alt="drawing" width="200"/>
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :--:|:--:|:--:|:--:|:--:|:--:|:--:
 
-<div class="button-group minor-group">
-    <a href="#" class="button primary">Dashboard</a>
-    <a href="#" class="button">Inbox</a>
-    <a href="#" class="button">Account</a>
-    <a href="#" class="button">Logout</a>
-</div>
+## Anggota Kelompok
+1. Adri Aulia Mahran    G6419
+2. Citra regita NWS     G6401201
+3. Naura Zhafira        G6401201121
 
 ## Sekilas Tentang
 [`^ back to top ^`](#)
@@ -138,7 +137,7 @@ Terdapat kelebihan dan kekurangan dari aplikasi yang diimplementasi disini.
 - Joomla jarang muncul di hasil pencarian pertama.
 - Media yang didukung terbatas.
 
-Ketika membandingkan Joomla! dengan Getsimple CMS, Joomla! memiliki keunggulan seperti penyimpanan yang tersimpan pada server dibanding dengan Getsimple yang mengandalkan penyimpanan secara lokal. Akan tetapi Getsimple diperuntukan untuk pengembangan aplikasi skala kecil tidak seperti Joomla! sehingga Joomla! tidak sefleksiblel Getsimple.
+Ketika membandingkan **Joomla!** dengan Getsimple CMS, **Joomla!** memiliki keunggulan seperti penyimpanan yang tersimpan pada server dibanding dengan Getsimple yang mengandalkan penyimpanan secara lokal. Akan tetapi Getsimple diperuntukan untuk pengembangan aplikasi skala kecil tidak seperti Joomla! sehingga Joomla! tidak sefleksiblel Getsimple.
 
 
 ## Referensi
@@ -146,3 +145,5 @@ Ketika membandingkan Joomla! dengan Getsimple CMS, Joomla! memiliki keunggulan s
 
 https://idcloudhost.com/mengenal-kelebihan-dan-kekurangan-menggunakan-joomla-dalam-merancang-situs-web-dan-blog/
 https://linuxhostsupport.com/blog/how-to-install-joomla-3-9-on-ubuntu-20-04/
+
+
