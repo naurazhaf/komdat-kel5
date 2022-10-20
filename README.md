@@ -44,11 +44,11 @@ Joomla adalah sistem manajemen konten (CMS) gratis dan sumber terbuka yang diban
      ```
 8. Ekstrak file aplikasi **Joomla** yang sudah diunduh
      ```
-     sudo unzip Joomla_4-0-3-Stable-Full_Package.zip -d /var/www/html/joomla
+     $ sudo unzip Joomla_4-0-3-Stable-Full_Package.zip -d /var/www/html/joomla
      ```
 10. Ekstrak file pada direktori`/var/www/html/joomla` sebagai root direktori dari aplikasi **Joomla**
      ```
-     sudo unzip Joomla_4-0-3-Stable-Full_Package.zip -d /var/www/html/joomla
+     $ sudo unzip Joomla_4-0-3-Stable-Full_Package.zip -d /var/www/html/joomla
      ```
 12. Ubah kepemilikandari direktori ```/var/www/html/joomla```  ke  ```www-data```
      ```
@@ -76,10 +76,14 @@ Joomla adalah sistem manajemen konten (CMS) gratis dan sumber terbuka yang diban
      CustomLog ${APACHE_LOG_DIR}/access.log combined
      </VirtualHost>
      ```
-16. Setelah file disimpan, lalu aktifkan **Joomla** virtual host
-     ``` $ sudo a2ensite joomla.conf ```
+16. Setelah file tersimpan, lalu aktifkan **Joomla** virtual host
+     ``` 
+     $ sudo a2ensite joomla.conf 
+     ```
 18. Restart ```Apache2``` untuk menerapkan perubahan
-     ```$ sudo systemctl restart apache2```
+     ```
+     $ sudo systemctl restart apache2
+     ```
 
 
 ## Konfigurasi (opsional)
