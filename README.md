@@ -84,8 +84,9 @@ Joomla! adalah sistem manajemen konten (CMS) gratis dan sumber terbuka yang diba
      CustomLog ${APACHE_LOG_DIR}/access.log combined
      </VirtualHost>
      ```
-16. Setelah file tersimpan, lalu aktifkan **Joomla** virtual host
+16. Setelah file tersimpan, kita harus menonaktifkan dulu default virtual host, lalu aktifkan **Joomla** virtual host
      ``` 
+     $ sudo a2dissite 000-default
      $ sudo a2ensite joomla.conf 
      ```
 18. Restart ```Apache2``` untuk menerapkan perubahan
@@ -109,6 +110,11 @@ Joomla! adalah sistem manajemen konten (CMS) gratis dan sumber terbuka yang diba
 - Pengaturan server dapat dirubah sesuai yang dibutuhkan
 
 <img src="https://github.com/naurazhaf/komdat-kel5/blob/main/pictures/config3.png" alt="gambar" width="850"/>
+
+- Untuk manajemen website, mengenai modul dan lainnya dapat diatur di menu-menu berikut
+
+<img width="183" alt="image" src="https://user-images.githubusercontent.com/84652339/197002278-fbfc06f0-6145-4f28-b762-ebbcfc430712.png">
+
 
 ##  Maintenance
 [`^ back to top ^`](#)
@@ -149,19 +155,25 @@ Tentunya, ketika kita sedang mengkonfigurasi ulang **Joomla!**, aplikasi perlu d
 
 4. Klik tombol `Ya` atau `Tidak` untuk memadamkan situs aplikasi
 
-## Otomatisasi
-[`^ back to top ^`](#)
-
-Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
-
 
 ## Cara Pemakaian
 [`^ back to top ^`](#)
 
-- Tampilan aplikasi web
-- Fungsi-fungsi utama
-- Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
+- Buka aplikasi website
 
+- Login terlebih dahulu, pada halamat sample site
+
+<img width="560" alt="image" src="https://user-images.githubusercontent.com/84652339/197003061-c86226d6-9e6b-4f50-93ee-aadb7f191115.png">
+
+- Jika belum memiliki akun dapat register terlebih dahulu
+
+![image](https://user-images.githubusercontent.com/84652339/197003637-48fb5618-c91e-4657-a254-1e7a6cf083cb.png)
+
+- Lalu, kita dapat melihat menu beranda
+
+![Uploading image.png…]()
+
+- Sebelum menuliskan artikel kita harus login terlebih dahulu
 
 ## Kelebihan dan kekurangan
 [`^ back to top ^`](#)
