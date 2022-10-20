@@ -116,13 +116,19 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
 
 
-## Pembahasan
+## Kelebihan dan kekurangan
 [`^ back to top ^`](#)
 
-- Pendapat anda tentang aplikasi web ini
+- Terdapat kelebihan dan kekurangan dari aplikasi yang diimplementasi disini.
     - kelebihan
+          - Instalasi yang relatif mudah dilakukan.
+          - Penggunaan PHP yang bersahabat bagi pemula.
+          - Pembesaran skala aplikasi mudah dan praktis.
+          - Variasi terjemahan kedalam berbagai bahasa sehinggga mempermudah dalam mempelajarinya.
     - kekurangan
-- Bandingkan dengan aplikasi web lain yang sejenis
+          - 
+          - 
+Bila dibandingkan dengan 
 
 
 ## Referensi
