@@ -27,7 +27,7 @@ Joomla! adalah sistem manajemen konten (CMS) gratis dan sumber terbuka yang diba
 **Tahapan Instalasi**
 1. Login ke akun Google Engine dan mengakses server menggunakan SSH yang disediakan oleh Google Virtual Machine.
      ```
-     $ ssh ctrrnws@34.128.81.68 -p 22
+     $ ssh crnwscitra@34.128.81.68 -p 22
     ```
 2. Memastikan bahwa sistem sudah terbarukan.
      ```
@@ -167,11 +167,11 @@ Tentunya, ketika kita sedang mengkonfigurasi ulang **Joomla!**, aplikasi perlu d
 
 - Jika belum memiliki akun dapat register terlebih dahulu
 
-![image](https://user-images.githubusercontent.com/84652339/197003637-48fb5618-c91e-4657-a254-1e7a6cf083cb.png)
+<img width="477" alt="image" src="https://user-images.githubusercontent.com/84652339/197004608-c99758d5-6a02-4479-a6ab-96dc34841cb4.png">
 
 - Lalu, kita dapat melihat menu beranda
 
-![Uploading image.png…]()
+<img width="456" alt="image" src="https://user-images.githubusercontent.com/84652339/197004489-b286329e-b2a4-47a5-a1c8-b58eb9edd13f.png">
 
 - Sebelum menuliskan artikel kita harus login terlebih dahulu
 
